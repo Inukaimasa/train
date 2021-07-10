@@ -1,0 +1,12 @@
+registerの所で新規ユーザを登録をすると、models/userとDBのusersを使うから。
+テーブルのダミーデータは、 UserSeederで作る。
+usersのテーブルを見た結果
+id,name emailmemail_verified_at.passwordだからダミーデータをこの分用意する。
+
+ログイン確認
+
+
+
+
+
+
